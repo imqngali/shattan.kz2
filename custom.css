@@ -445,3 +445,7 @@ img {
         opacity: 0;
     }
 }
+
+.t229 a, #allrecords .t229 a {
+    font-weight: bold !important;
+}
