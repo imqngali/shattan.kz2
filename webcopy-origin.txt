@@ -1,0 +1,236 @@
+Uri: https://booking.medflex.ru/components/round/round_widget_button.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\components\round\round_widget_button.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Philosopher
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/philosopher/v19/vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\s\philosopher\v19\vEFV2_5QCwIS4_Dhez5jcWBuT0g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://maps.api.2gis.ru/2.0/loader.js?pkg=full
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\2.0\loader.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/84812479
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\watch\84812479
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://newday-clinic.ru/bioakusticheskaya-korrekciya
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\bioakusticheskaya-korrekciya.html
+Content Type: text/html
+
+Uri: https://newday-clinic.ru/custom.css?t=1690356842
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\custom.css
+Content Type: text/css
+
+Uri: https://newday-clinic.ru/tilda-blocks-page20216899.min.css?t=1690356842
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tilda-blocks-page20216899.min.css
+Content Type: text/css
+
+Uri: https://newday-clinic.ru/tilda-blocks-page20216899.min.js?t=1690356842
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tilda-blocks-page20216899.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-cards-1.0.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-cards-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cards-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-cards-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3064-6361-4231-b639-633239363233/tselebnoe-prikosnove.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3064-6361-4231-b639-633239363233\tselebnoe-prikosnove.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3130-6336-4139-a439-373165323832/-/resize/20x/5.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3130-6336-4139-a439-373165323832\-\resize\20x\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3131-3466-4132-a435-643831373365/magnifier.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3131-3466-4132-a435-643831373365\magnifier.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3163-3232-4665-b533-373735656361/book.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3163-3232-4665-b533-373735656361\book.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3236-3962-4563-b465-366439333962/5.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3236-3962-4563-b465-366439333962\5.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3238-3031-4330-b665-623034346137/-/empty/3.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3238-3031-4330-b665-623034346137\-\empty\3.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3364-3662-4232-a634-653630346434/music-svg.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3364-3662-4232-a634-653630346434\music-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3462-3762-4130-b338-656536663663/magnifier.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3462-3762-4130-b338-656536663663\magnifier.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3563-6461-4635-b761-663433663662/vnd.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3563-6461-4635-b761-663433663662\vnd.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild3564-6431-4763-b366-313463313637/-/resizeb/20x/photo.png
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3564-6431-4763-b366-313463313637\-\resizeb\20x\photo.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3738-3930-4235-a661-646631663166/-/resizeb/20x/uze_new_1.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3738-3930-4235-a661-646631663166\-\resizeb\20x\uze_new_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3738-4035-b962-333530653136/-/empty/6.jpg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3766-3738-4035-b962-333530653136\-\empty\6.jpg
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3963-3731-4564-b031-623237326363/location.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild3963-3731-4564-b031-623237326363\location.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6133-6237-4263-b361-376431313462/-/resizeb/20x/_.png
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild6133-6237-4263-b361-376431313462\-\resizeb\20x\_.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6135-3438-4564-a338-313765343238/brain.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild6135-3438-4564-a338-313765343238\brain.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6334-6537-4639-a539-353766646134/hospital-bed.svg
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild6334-6537-4639-a539-353766646134\hospital-bed.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/tild6438-3033-4931-b133-646335653164/favicon.ico
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild6438-3033-4931-b133-646335653164\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6633-3337-4837-b230-366466363366/-/empty/-.png
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tild6633-3337-4837-b230-366466363366\-\empty\-.png
+Content Type: image/png
+
+Uri: https://use.typekit.net/fsg7zfy.js
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\fsg7zfy.js
+Content Type: text/javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1228377-2IpJZ
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\rtrg
+Content Type: image/gif
+
+Uri: https://www.facebook.com/tr?id=343564000880847&ev=PageView&agent=pltilda&noscript=1
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=343564000880847&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\newday-clinic.ru\tr
+Content Type: text/plain
+
