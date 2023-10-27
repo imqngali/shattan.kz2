@@ -21,6 +21,7 @@
     <link rel="dns-prefetch" href="https://ws.tildacdn.com">
     <link rel="dns-prefetch" href="https://static.tildacdn.com">
     <link rel="shortcut icon" type="image/jpg" href="img/favicon.jpg"/>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <!-- Assets -->
     <script src="js/tilda-fallback-1.0.min.js" async="" charset="utf-8"></script>
     <link rel="stylesheet" href="css/tilda-grid-3.0.min.css" type="text/css" media="all" onerror="this.loaderr='y';">
@@ -5773,84 +5774,19 @@ c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5L25.503,16.881z"></path>
                                         </div>
                                     </div>
                                 </div>
-                                <form id="form101000098" name='form101000098' role="form" action='telegram.php' method='POST'>
-                                    <div class="t-form__inputsbox">
-                                        <div class="t-input-group t-input-group_ph" data-input-lid="1495810410810">
-                                            <div class="t-input-block"
-                                                style="border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
-                                                <input type="tel" autocomplete="tel" name="user_phone"
-                                                    
-                                                    class="t-input js-tilda-rule js-tilda-mask "
-                                                    placeholder="Телефон"
-                                                    
-                                                    style="color:#000000;border:1px solid #c9c9c9;border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;"><input
-                                                    type="hidden" 
-                                                    >
-                                                
-                                            </div>
-                                        </div>
-                                        <div class="t-input-group t-input-group_ta" data-input-lid="1547197746325">
-                                            <div class="t-input-block"
-                                                style="border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
-                                                <input type="name" autocomplete="name" name="user_name"
-                                                    id="input_1495810410810"
-                                                    class="t-input js-tilda-rule js-tilda-mask " value=""
-                                                    placeholder="Имя"
-                                                    style="color:#000000;border:1px solid #c9c9c9;border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;"><input
-                                                    type="hidden">
-                                                
-                                            </div>
-                                        </div>
-                                        <!--[if IE 8]><style>.t-checkbox__control .t-checkbox, .t-radio__control .t-radio {
-left: 0px;
-z-index: 1;
-opacity: 1;
-}
-.t-checkbox__indicator, .t-radio__indicator {
-display: none;
-}
-.t-img-select__control .t-img-select {
-position: static;
-}</style><![endif]-->
-                                        <div class="t-form__errorbox-middle">
-                                            <div class="js-errorbox-all t-form__errorbox-wrapper" style="display:none;">
-                                                <div class="t-form__errorbox-text t-text t-text_md">
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-all">
-                                                    </p>
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-req">
-                                                    </p>
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-email">
-                                                    </p>
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-name">
-                                                    </p>
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-phone">
-                                                    </p>
-                                                    <p
-                                                        class="t-form__errorbox-item js-rule-error js-rule-error-minlength">
-                                                    </p>
-                                                    <p class="t-form__errorbox-item js-rule-error js-rule-error-string">
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="t-form__submit"><button type="submit" class="t-submit"
-                                                style="color:#fff;background-color:#25D366;border-radius:25px; -moz-border-radius:25px; -webkit-border-radius:25px;">Отправить</button>
-                                        </div>
+                                <form action="telegram.php" method="POST">
+                  
+                                    <div class="form-group">
+                                        <label for="">Введите ваше имя</label>
+                                        <input type="text" class="form-control" id="" name="user_name" placeholder="Имя">
                                     </div>
-                                    <div class="t-form__errorbox-bottom">
-                                        <div class="js-errorbox-all t-form__errorbox-wrapper" style="display:none;">
-                                            <div class="t-form__errorbox-text t-text t-text_md">
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-all"></p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-req"></p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-email"></p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-name"></p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-phone"></p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-minlength">
-                                                </p>
-                                                <p class="t-form__errorbox-item js-rule-error js-rule-error-string"></p>
-                                            </div>
-                                        </div>
+                                
+                                    <div class="form-group">
+                                        <label for="">Введите номер телефона</label>
+                                        <input type="text" class="form-control" id="" name="user_phone" placeholder="+77000000000">
                                     </div>
+                                
+                                    <button type="submit" class="btn btn-primary">Отправить</button>
                                 </form>
                                 <style>
                                     #rec101000098 input::-webkit-input-placeholder {
